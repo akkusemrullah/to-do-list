@@ -1,6 +1,5 @@
 # To-Do List Uygulaması
 
-![To-Do List Uygulaması](ss/todo1.png)
 ![To-Do List Uygulaması](ss/todo2.png)
 Bu, HTML, CSS ve JavaScript kullanarak yapılmış basit bir yapılacaklar listesi uygulamasıdır. Görev ekleyebilir, tamamlayabilir, düzenleyebilir ve silebilirsiniz. Tamamlanan görevlerin yüzdesi gösterilir.
 
